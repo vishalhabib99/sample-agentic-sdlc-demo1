@@ -8,7 +8,7 @@ dependencies = [
     "strands-agents-builder",
     "bedrock-agentcore",
     "boto3",
-    "mcp",
+    "mcp<2",
     "aws-opentelemetry-distro>=0.16.0",
 ]
 
